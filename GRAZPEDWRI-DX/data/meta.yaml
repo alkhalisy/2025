@@ -1,5 +1,5 @@
 # patch: /path/to/GRAZPEDWRI-DX/data
-path: '/content/ultralytics/GRAZPEDWRI-DX/data'
+path: '/content/2025/GRAZPEDWRI-DX/data'
 train: 'images/train'
 val: 'images/valid'
 test: 'images/test'
